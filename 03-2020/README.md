@@ -1,6 +1,6 @@
 # BattleDev mars 2020
 
-- Classement : ?/3322
+- Classement : 585/4936
 - Exercice 1 : Terminé
 - Exercice 2 : Terminé
 - Exercice 3 : Terminé
